@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"Ic_tester.c" LINE:188
+printf DSTACK_USAGE:10 DSTACK_LEVEL:10 FILE:"E:\Summer2021\embedded systems (Amit)\programs related to embedded\Microchip Studio\7.0\lib\stdio.lib" LINE:1592
+_print DSTACK_USAGE:20 DSTACK_LEVEL:30 FILE:"E:\Summer2021\embedded systems (Amit)\programs related to embedded\Microchip Studio\7.0\lib\stdio.lib" LINE:597
+strlen DSTACK_USAGE:2 DSTACK_LEVEL:32 FILE:"E:\Summer2021\embedded systems (Amit)\programs related to embedded\Microchip Studio\7.0\lib\string.lib" LINE:1722
