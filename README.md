@@ -30,8 +30,8 @@ Testing and Validation:
 Conducted thorough testing to validate the accuracy and reliability of the IC detection and functionality assessment.
 Integration and Debugging:
 Integrated various components of the tester and debugged any issues to ensure seamless operation.
-Technologies Used:
 
+Technologies Used:
 AVR Microcontroller
 Embedded C Programming
 Digital IC Testing Techniques
